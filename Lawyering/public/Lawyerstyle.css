@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+    text-align: center;
+
+}
+
+h2 {
+    color: darkblue;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+
+}
+div.stripe {
+    background-color: red;
+}
+
+div.stripe2 {
+    background-color: white;
+}
+p {
+    color: darkblue;
+}
+
+div {
+    font-size: 40px;
+}
